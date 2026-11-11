@@ -4,7 +4,7 @@ cask "espdesktop" do
 
   url "https://github.com/jtenniswood/espdesktop/releases/download/v#{version}/EspDesktop-#{version}.zip"
   name "EspDesktop"
-  desc "Mac companion for the EspDesktop touchscreen controller"
+  desc "Companion app for an ESP32 touchscreen controller"
   homepage "https://jtenniswood.github.io/espdesktop/"
 
   livecheck do
