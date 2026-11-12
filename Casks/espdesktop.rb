@@ -1,11 +1,11 @@
 cask "espdesktop" do
-  version "1.2.5"
-  sha256 "1c31d76ca5996942e078d922212a3a6acd93270b2651a37ffb83d921d8ebe9f2"
+  version "1.2.6"
+  sha256 "d446cc2113f4fb3c282fc533ed29c185dcaeec58a1855b329e396054ab5df8a7"
 
   url "https://github.com/jtenniswood/espdesktop/releases/download/v#{version}/EspDesktop-#{version}.zip"
   name "EspDesktop"
   desc "Companion app for an ESP32 touchscreen controller"
-  homepage "https://jtenniswood.github.io/espdesktop/"
+  homepage "https://espdesktop.com/"
 
   livecheck do
     url :url
