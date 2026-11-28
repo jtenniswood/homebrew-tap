@@ -1,6 +1,6 @@
 cask "espdesktop" do
-  version "1.6.0"
-  sha256 "8c8832d96dec3b2d894bca2048ecbff7b178c963b7f2845e2e84a12e2db01724"
+  version "1.6.2"
+  sha256 "e5083d34286cb58c40ba99920503f75db4eba245633ef4392d1ca3a5644334d6"
 
   url "https://github.com/jtenniswood/espdesktop/releases/download/v#{version}/EspDesktop-#{version}.zip"
   name "EspDesktop"
